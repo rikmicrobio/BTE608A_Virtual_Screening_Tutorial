@@ -1,3 +1,6 @@
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/7f24a96c-b567-4f63-88f1-39ff4cbdd202" />
+
+
 # Virtual Screening Tutorial: Drug-Likeness & Toxicity Risk Assessment
 
 This is a hands-on walkthrough for screening a compound library for oral
