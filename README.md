@@ -166,24 +166,7 @@ before spending time and money on actual toxicology testing, nothing more.
 ## 3. Pipeline overview
 
 ```
-ranked-smiles-1500-1.csv
-        |
-        v
-  Step 1: Extract SMILES into compounds.smi (Python)
-        |
-        v
-  Step 2: OpenBabel converts SMILES to 3D SDF (obabel --gen3d)
-        |
-        v
-  Step 3: Load compounds_3D.sdf in DataWarrior
-        |
-        +--> Step 4: Lipinski RO5 (calculated properties)
-        |
-        +--> Step 5: Toxicity Risk Predictor
-                (mutagenic, tumorigenic, reproductive, irritant)
-        |
-        v
-  Step 6: Filter and export your shortlist
+<img width="1240" height="848" alt="Image" src="https://github.com/user-attachments/assets/4944006a-5b91-421c-9296-3d5fdbd39d45" />
 ```
 
 ---
