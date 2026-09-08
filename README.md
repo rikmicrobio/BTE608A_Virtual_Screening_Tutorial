@@ -165,9 +165,9 @@ before spending time and money on actual toxicology testing, nothing more.
 
 ## 3. Pipeline overview
 
-```
+
 <img width="1240" height="848" alt="Image" src="https://github.com/user-attachments/assets/4944006a-5b91-421c-9296-3d5fdbd39d45" />
-```
+
 
 ---
 
